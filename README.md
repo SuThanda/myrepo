@@ -1,3 +1,3 @@
-# myrepo
-Repository for testing my Git/GitHub setup
-
+library(datasets)
+datasets::iris
+View(iris)
